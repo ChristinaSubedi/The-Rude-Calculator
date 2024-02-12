@@ -161,6 +161,7 @@ class MainActivity : AppCompatActivity() {
 
         btn3.setOnClickListener {
             concat("3")
+
         }
 
         add.setOnClickListener {
